@@ -9,7 +9,7 @@
   "embedding_ctx_size": "1024",
   "embedding_batch_size": "64",
   "embedding_collection_name": "london_embed_collection",
-  "llamaedge_port": "8080",
+  "llamaedge_port": "8091",
   "prompt_template": "llama-3-chat",
   "rag_prompt": "You are a local expert in London. Use the following context to respond clearly to the visitor's question:\n----------------\n",
   "reverse_prompt": "",
