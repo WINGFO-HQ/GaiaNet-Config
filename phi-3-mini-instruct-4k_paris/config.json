@@ -9,7 +9,7 @@
   "embedding_ctx_size": "1024",
   "embedding_batch_size": "32",
   "embedding_collection_name": "paris_embed_collection",
-  "llamaedge_port": "8090",
+  "llamaedge_port": "8091",
   "prompt_template": "phi-3-chat",
   "rag_prompt": "Act as a helpful Paris tour guide. Use the context below to respond clearly and accurately.\n----------------\n",
   "reverse_prompt": "",
