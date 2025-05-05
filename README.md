@@ -32,3 +32,14 @@ gaianet init --config https://github.com/WINGFO-HQ/GaiaNet-Config/raw/refs/heads
 ```bash
 gaianet init --config https://raw.githubusercontent.com/WINGFO-HQ/GaiaNet-Config/refs/heads/main/llama-3-8b-instruct_london/config.json
 ```
+
+After you use gaianet config to change some parameters, please
+=
+- For make your settings take effect
+```bash
+gaianet init
+```
+- For start your new node
+```bash
+gaianet start
+```
