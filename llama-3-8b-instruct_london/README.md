@@ -1,6 +1,6 @@
 ✅ LLaMA 3 8B Instruct — Server Requirements
 =
-📦 Model Overview
+## 📦 Model Overview
 - Model: Meta-Llama-3-8B-Instruct-Q5_K_M.gguf
 - Parameters: 8 billion
 - Quantization: Q5_K_M (5-bit)
