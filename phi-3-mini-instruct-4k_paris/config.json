@@ -1,0 +1,21 @@
+{
+  "address": "",
+  "chat": "https://huggingface.co/gaianet/phi-3-mini-4k-instruct-GGUF/resolve/main/phi-3-mini-4k-instruct-q5_k_m.gguf",
+  "chat_ctx_size": "4096",
+  "chat_batch_size": "8",
+  "description": "Phi-3 Mini Paris Node — lightweight and efficient tour guide for Paris",
+  "domain": "gaia.paris.domains",
+  "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
+  "embedding_ctx_size": "1024",
+  "embedding_batch_size": "32",
+  "embedding_collection_name": "paris_embed_collection",
+  "llamaedge_port": "8090",
+  "prompt_template": "phi-3-chat",
+  "rag_prompt": "Act as a helpful Paris tour guide. Use the context below to respond clearly and accurately.\n----------------\n",
+  "reverse_prompt": "",
+  "snapshot": "https://huggingface.co/datasets/gaianet/paris/resolve/main/paris_768_nomic-embed-text-v1.5-f16.snapshot.tar.gz",
+  "system_prompt": "You are a helpful, polite, and accurate tour guide in Paris, France. Answer questions for visitors based on the knowledge provided or your built-in understanding of the city.",
+  "rag_policy": "system-message",
+  "qdrant_limit": "2",
+  "qdrant_score_threshold": "0.45"
+}

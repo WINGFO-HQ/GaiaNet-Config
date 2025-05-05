@@ -1,0 +1,21 @@
+{
+  "address": "",
+  "chat": "https://huggingface.co/gaianet/Qwen1.5-1.8B-Chat-GGUF/resolve/main/Qwen1.5-1.8B-Chat-Q5_K_M.gguf",
+  "chat_ctx_size": "2048",
+  "chat_batch_size": "2",
+  "description": "Optimized Qwen 1.5 1.8B node for Paris tourism support",
+  "domain": "gaia.paris.domains",
+  "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
+  "embedding_collection_name": "paris_embed_collection",
+  "embedding_ctx_size": "512",
+  "embedding_batch_size": "32",
+  "llamaedge_port": "8091",
+  "prompt_template": "chatml",
+  "rag_prompt": "Act as a friendly Paris tour guide. Use this context to help the visitor:\n----------------\n",
+  "reverse_prompt": "",
+  "snapshot": "https://huggingface.co/datasets/gaianet/paris/resolve/main/paris_768_nomic-embed-text-v1.5-f16.snapshot.tar.gz",
+  "system_prompt": "You are a Paris tour guide. Help visitors with accurate answers based on the provided context or your own knowledge.",
+  "rag_policy": "system-message",
+  "qdrant_limit": "2",
+  "qdrant_score_threshold": "0.45"
+}
