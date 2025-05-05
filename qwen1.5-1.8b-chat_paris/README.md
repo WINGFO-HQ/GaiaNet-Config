@@ -1,4 +1,4 @@
-✅ Qwen1.5-1.8B-Chat
+✅ Qwen1.5-1.8B-Chat — Server Requirements
 =
 ## 📦 Model Overview
 - Model: Qwen1.5-1.8B-Chat-Q5_K_M.gguf
