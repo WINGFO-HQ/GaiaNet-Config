@@ -1,4 +1,4 @@
-✅ Qwen1.5-1.8B-Chat — GaiaNet Node Specs
+✅ Qwen1.5-1.8B-Chat
 =
 ## 📦 Model Overview
 - Model: Qwen1.5-1.8B-Chat-Q5_K_M.gguf
