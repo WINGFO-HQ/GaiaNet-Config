@@ -1,4 +1,4 @@
-✅ LLaMA 3 8B Instruct
+✅ LLaMA 3 8B Instruct — Server Requirements
 =
 📦 Model Overview
 - Model: Meta-Llama-3-8B-Instruct-Q5_K_M.gguf
